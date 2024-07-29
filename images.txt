@@ -1,1 +1,1 @@
-dickhub/openwrt
+deluan/navidrome
