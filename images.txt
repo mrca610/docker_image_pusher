@@ -1,3 +1,3 @@
 
-deluan/navidrome:pr-2812@sha256:5b6712d3ee76c542e41577c7d28c2c3f5df6b7f4bb20d5ccfe1948b55ba166ce
+portainer/portainer:linux-arm64-2.0.1@sha256:d0e9481f0b910c8c46f16eea3ad1d92e9da432a7f0a968a290194f5c968cab17
 
