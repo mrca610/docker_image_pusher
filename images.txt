@@ -1,2 +1,2 @@
-deluan/navidrome:pr-3084
+deluan/navidrome:pr-3164@sha256:56b117764f4e9d46fbb3014c951115fe9149c9b7c50a6eaba987e600468cc93d
 
