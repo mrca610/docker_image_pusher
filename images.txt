@@ -1,2 +1,2 @@
-portainer:linux-amd64-2.0.1
+portainer/portainer:linux-arm-2.0.1
 
