@@ -1,2 +1,3 @@
 
-deluan/navidrome:pr-3164@sha256:56b117764f4e9d46fbb3014c951115fe9149c9b7c50a6eaba987e600468cc93d
+deluan/navidrome:pr-2812@sha256:5b6712d3ee76c542e41577c7d28c2c3f5df6b7f4bb20d5ccfe1948b55ba166ce
+
