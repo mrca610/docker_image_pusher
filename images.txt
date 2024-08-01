@@ -1,1 +1,1 @@
-bitnami/mysql:5.7.43-debian-11-r73@sha256:6c5b962faf5ab94ff91ff2dc5d16a3e4b496ef0d6bd4aef3446668e5c2b2ae2a
+bitnami/mysql:5.7.43-debian-11-r73@sha256:7318cb588333465b9389f6b62ada4228ca95f48b302eda1f5e3ef91186c69507
