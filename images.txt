@@ -1,1 +1,1 @@
-linuxserver/piwigo:14.5.0@sha256:e3682f7ca2bb964144076d1045b9c25482209b53fc436d0be3c5e9515a99d1ab
+trydirect/wagtail:stable@sha256:5c7ecab713867666680c988b428b0feba71b624ccfe427619ac6d5ede2ac4745
