@@ -1,1 +1,1 @@
-phpmyadmin:apache@sha256:e181fa19d90e720155a2b92605f7d80cd1cdfa3186573a4525858b0dee5fe2ee
+wordpress:php8.3-apache@sha256:36acc83ce9c69d1312ecc8367b82a7549f22e3c4ceee78ff96ae8e2cf7093e82
