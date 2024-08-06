@@ -1,3 +1,1 @@
-bitnami/moodle:4.2-debian-12@sha256:65054eea30d2fcfd8ec1fc6d00458bcdea946ea7064bb79b703faeb93ede2f54
-
-
+bitnami/mariadb:11.4-debian-12@sha256:f78927a9be61bb29c02468021c018736a5a93dbbe013abf5bfa14a11ecccdd8b
