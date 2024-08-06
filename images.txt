@@ -1,1 +1,3 @@
-probezy/cpolar:3.3.18@sha256:2d6a30b6bcdf7c465ae9f21882b2bbe8d226e30393baec077ed25977253bd51c
+bitnami/moodle:4.2-debian-12@sha256:65054eea30d2fcfd8ec1fc6d00458bcdea946ea7064bb79b703faeb93ede2f54
+
+
